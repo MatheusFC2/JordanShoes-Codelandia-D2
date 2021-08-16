@@ -1,0 +1,19 @@
+/* --------Variavel-------- */
+
+:root {
+    --bgSite: #f6f6f6;
+    --bgCard: #ebe9ea;
+    
+    --white: #fff;
+  
+    --title: #181818;
+    --text: #474747;
+}
+
+/* --------Reset-------- */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
